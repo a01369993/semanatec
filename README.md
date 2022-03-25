@@ -20,20 +20,28 @@ Pequeña matriz que nos permite aplicar "filtros" que resaltan, alisan, detectan
 - Gaussian blur
 Es un kernel de desenfoque y ayuda a reducir el ruido de una imagen. Da uso de la función gaussiana, llamada así por Carl Friderich Gauss. 
 La ecuación se ve de la siguiente manera: 
+
 ![WhatsApp Image 2022-03-25 at 10 26 17 AM](https://user-images.githubusercontent.com/84739987/160161475-1d455d8a-3154-418b-96e0-06964aeaa23e.jpeg)
 
 - Mexican Hat/Ricker wavelet
 Es un kernel que desenfoca y muestra contornos. Ayuda a la imagen para que se vea mas clara. Es la segunda derivada negativa normalizada de una función gaussiana. Se ve de la siguiente manera:
+
 ![WhatsApp Image 2022-03-25 at 10 26 17 AM](https://user-images.githubusercontent.com/84739987/160162614-48daf16a-d019-4612-8982-c5351ce57032.jpeg)
 
 ## Resultado de kernels
--Kernal Exponential 
+- Kernal Exponential
+
+
 ![WhatsApp Image 2022-03-25 at 10 39 02 AM](https://user-images.githubusercontent.com/84739987/160163720-b3928c85-65d9-46dd-a768-fe9cc1c62306.jpeg)
 
 - Gaussian blur
+
+
 ![WhatsApp Image 2022-03-25 at 10 39 02 AM (1)](https://user-images.githubusercontent.com/84739987/160163653-c8fab918-d641-43f0-8f41-c32b2305647c.jpeg)
 
 - Mexican Hat/Ricker wavelet
+
+
 ![WhatsApp Image 2022-03-25 at 10 39 03 AM](https://user-images.githubusercontent.com/84739987/160163640-fed4a93d-c83f-4dc9-9484-1ee8cbf5323b.jpeg)
 
 ## Implementación
