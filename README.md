@@ -23,7 +23,8 @@ Es un kernel de desenfoque y ayuda a reducir el ruido de una imagen. Da uso de l
 La ecuación se ve de la siguiente manera: 
 
 ![WhatsApp Image 2022-03-25 at 10 26 17 AM](https://user-images.githubusercontent.com/84739987/160161475-1d455d8a-3154-418b-96e0-06964aeaa23e.jpeg)
-![1280px-MexicanHatMathematica svg](https://user-images.githubusercontent.com/84739987/160164544-4275a49c-201c-4953-afc4-abd9af0a724b.png)
+![WhatsApp Image 2022-03-25 at 10 47 03 AM](https://user-images.githubusercontent.com/84739987/160164869-7a20b415-01a4-4efe-86af-96d77260aae7.jpeg)
+
 
 - Mexican Hat/Ricker wavelet
 
