@@ -23,12 +23,14 @@ Es un kernel de desenfoque y ayuda a reducir el ruido de una imagen. Da uso de l
 La ecuación se ve de la siguiente manera: 
 
 ![WhatsApp Image 2022-03-25 at 10 26 17 AM](https://user-images.githubusercontent.com/84739987/160161475-1d455d8a-3154-418b-96e0-06964aeaa23e.jpeg)
+![1280px-MexicanHatMathematica svg](https://user-images.githubusercontent.com/84739987/160164544-4275a49c-201c-4953-afc4-abd9af0a724b.png)
 
 - Mexican Hat/Ricker wavelet
 
 Es un kernel que desenfoca y muestra contornos. Ayuda a la imagen para que se vea mas clara. Es la segunda derivada negativa normalizada de una función gaussiana. Se ve de la siguiente manera:
 
 ![WhatsApp Image 2022-03-25 at 10 26 17 AM](https://user-images.githubusercontent.com/84739987/160162614-48daf16a-d019-4612-8982-c5351ce57032.jpeg)
+![descarga](https://user-images.githubusercontent.com/84739987/160164552-0ad7dd22-67e9-4f11-97ed-2bea0bcb0d2b.png)
 
 ## Resultado de kernels
 - Kernal Exponential
