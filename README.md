@@ -11,3 +11,4 @@ Con el uso del leguaje de programación python realizamos un código, este modif
 - Gaussian blur
 - Mexican Hat/Ricker wavelet
 
+algo
