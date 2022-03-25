@@ -20,8 +20,9 @@ Pequeña matriz que nos permite aplicar "filtros" que resaltan, alisan, detectan
 - Gaussian blur
 Es un kernel de desenfoque y ayuda a reducir el ruido de una imagen. Da uso de la función gaussiana, llamada así por Carl Friderich Gauss. 
 La ecuación se ve de la siguiente manera: 
-``` math
-sin x / x
-```
+![WhatsApp Image 2022-03-25 at 10 26 17 AM](https://user-images.githubusercontent.com/84739987/160161475-1d455d8a-3154-418b-96e0-06964aeaa23e.jpeg)
 
 - Mexican Hat/Ricker wavelet
+``` python
+print('Hola')
+```
