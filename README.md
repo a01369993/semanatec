@@ -23,6 +23,10 @@ La ecuación se ve de la siguiente manera:
 ![WhatsApp Image 2022-03-25 at 10 26 17 AM](https://user-images.githubusercontent.com/84739987/160161475-1d455d8a-3154-418b-96e0-06964aeaa23e.jpeg)
 
 - Mexican Hat/Ricker wavelet
+
+![WhatsApp Image 2022-03-25 at 10 26 17 AM](https://user-images.githubusercontent.com/84739987/160162614-48daf16a-d019-4612-8982-c5351ce57032.jpeg)
+ 
+## Implementación
 ``` python
 import matplotlib.pyplot as plt
 import numpy
