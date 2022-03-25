@@ -8,8 +8,9 @@
 Con el uso del leguaje de programación python realizar un código que modifiique una imagen mediante la implementación de los conceptos aprendidos en clase. Un ejemplo de estos conceptos son los Kernels. 
 
 ## Introducción
+Conceptos básicos
 
-##Qué es una convolución
+## Qué es una convolución
 Tratamiento de la colección de píxeles en coordenadas rectangulares (matriz) de una imagen por otra matriz  llamada Kernel.  Dependiendo el efecto deseado, será el kernel utilizado.
 
 ## Qué es un Kernel
